@@ -3,6 +3,7 @@
 #include <vector>
 using namespace std;
 // g++ main.cpp -o main && ./main
+// not finished
 int main() {
   int n, k;
   cin >> n >> k;
